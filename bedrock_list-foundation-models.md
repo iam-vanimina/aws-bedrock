@@ -1,7 +1,9 @@
+Input:
 ```
 $ aws bedrock list-foundation-models  --region ap-south-1
 
 ```
+output:
 ```
 {
     "modelSummaries": [
