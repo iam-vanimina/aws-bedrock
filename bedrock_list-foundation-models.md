@@ -2,7 +2,7 @@
 $ aws bedrock list-foundation-models  --region ap-south-1
 
 ```
-
+```
 {
     "modelSummaries": [
         {
@@ -1678,3 +1678,4 @@ $ aws bedrock list-foundation-models  --region ap-south-1
         }
     ]
 }
+```
