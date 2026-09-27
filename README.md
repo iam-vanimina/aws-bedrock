@@ -1,6 +1,6 @@
 # aws-bedrock
 # aws official :
-``
+```
 https://docs.aws.amazon.com/bedrock/latest/userguide/getting-started-api-ex-python.html?utm_source
 ```
 # 🚀 AWS Bedrock — Step-by-Step Hands-On Learning
